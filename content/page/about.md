@@ -2,7 +2,6 @@
 title: "About Me"
 type: "page"
 date: 2018-08-22T00:28:35+05:30
-draft: true
 author: "Yapper"
 description: "description"
 keywords: ["key", "words"]
